@@ -1,7 +1,7 @@
 {
   "name": "gspell",
   "version": "0.1.0",
-  "homepage": "https://grantspell.github.io",
+  "homepage": "https://grantspell.github.io/portfolio",
   "private": true,
   "dependencies": {
     "gh-pages": "^1.0.0",
